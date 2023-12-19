@@ -11,17 +11,16 @@ quiz related data. When accessing application, user is shown list of quizzes abo
 ## Dependencies
 
 **dependencies:**
-  flutter:
+  - flutter:
     sdk: flutter
-    
-  cupertino_icons: ^1.0.2
-  go_router: ^12.1.3
-  shared_preferences: ^2.2.2
-  flutter_riverpod: ^2.4.9
-  http: ^1.1.2
+  - cupertino_icons: ^1.0.2
+  - go_router: ^12.1.3
+  - shared_preferences: ^2.2.2
+  - flutter_riverpod: ^2.4.9
+  - http: ^1.1.2
 
 **dev_dependencies:**
-  flutter_test:y it
+  - flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  - flutter_lints: ^2.0.0
 
